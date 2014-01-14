@@ -1,4 +1,4 @@
-console.log('Welcome to your Calculator app!');
+console.log('Welcome to your Calculator application!');
 
 var menu = 'To ADD (+), To SUBTRACT (-), To MULTIPLY (*), To DIVIDE (/), To POWER (p), To FACTORIAL (!) or To QUIT (q)';
 var operator = prompt(menu);

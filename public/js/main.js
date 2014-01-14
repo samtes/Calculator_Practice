@@ -81,7 +81,7 @@ switch(operator){
     break;
 
   case '!':
-    var x = (prompt('Enter number'));
+    var x = parseInt(prompt('Enter number'));
     result = fac(x);
 }
 console.log(result);
